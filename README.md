@@ -16,4 +16,4 @@ Desarrollador Web (DAW) con experiencia práctica en empresa (Suez, Ferrol). Tra
 
 ## 📫 Contacto
 - Email: hugofernandezpinho@gmail.com
-- LinkedIn: linkedin.com/in/hugo-fernández-pinho-826297227
+- LinkedIn: https://www.linkedin.com/in/hugofpinho
