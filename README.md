@@ -9,7 +9,7 @@ Desarrollador Web (DAW) con experiencia práctica en empresa (Suez, Ferrol). Tra
 
 ## 💼 Experiencia
 - **Suez (Ferrol)** — prácticas como programador web (Angular + Python)
-
+- **IIM (Vigo)** — Desarrollador web
 ## 📌 Actualmente
 - Mejorando arquitectura y buenas prácticas en TypeScript/Angular
 - Construyendo proyectos y publicándolos aquí
